@@ -75,7 +75,7 @@ while True:
     else:
         print(" "*3,"*"," "*3)
         exc=exc-1
-    if pro==0 and mt==0 and mr==0 and exc==0:
+    if pro==0 and mt==0 and mr==0 and exc==0:     ##Excute pro + mt + mr + exc
         break
     
     
